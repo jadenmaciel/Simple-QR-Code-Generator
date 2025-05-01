@@ -1,7 +1,7 @@
 # Simple-QR-Code-Generator
 Creating a simple QR code generator from the use of Python. 
 
-# 1. Creat a fresh venv with pip / setuptools/ wheel pre-installed
+# 1. Create a fresh venv with pip / setuptools/ wheel pre-installed
 
 python3 -m venv --upgrade-deps ~/venv
 
